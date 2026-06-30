@@ -4,18 +4,18 @@ An advanced, production-ready automation hub designed for iOS that acts as a cen
 
 This project solves the critical issue of background session expiration in native mobile AI applications by implementing a proprietary, high-performance background session-keeping architecture combined with custom security digital watermarking—all compiled into a single, self-contained shortcut.
 
-## ⚠️ Prerequisites (Wymagania)
+## ⚠️ Prerequisites & Official Apps (Wymagania i Aplikacje)
 
-To fully utilize this workflow and all its specialized agents, you **must have the following official apps installed** on your iOS device:
-* **ChatGPT** (OpenAI)
-* **Claude** (Anthropic)
-* **Gemini** (Google)
-* **Grok** (xAI)
+To fully utilize this workflow and all its specialized agents, you **must have the following official apps installed** on your iOS device (links provided below):
+* 🧠 **ChatGPT** (OpenAI) — [App Store / Download Link](https://apps.apple.com/pl/app/chatgpt/id6448311069?l=pl)
+* 🍊 **Claude** (Anthropic) — [App Store / Download Link](https://apps.apple.com/pl/app/claude-by-anthropic/id6473753684?l=pl)
+* 🌐 **Gemini** (Google) — [App Store / Download Link](https://apps.apple.com/pl/app/google-gemini/id6477489729?l=pl)
+* 🚀 **Grok** (xAI) — [App Store / Download Link](https://apps.apple.com/pl/app/grok-asystent-ai/id6670324846?l=pl)
 
 ## 📥 Download Shortcut (Pobierz skrót)
 
 > [!TIP]
-> **[Click here to install Multi-Agent AI Workflow (All-in-One Version)](https://www.icloud.com/shortcuts/79d2255a0d3b4bf49ee6572d17a96379)**
+> **[Click here to install Multi-Agent AI Workflow (All-in-One Version)](https://www.icloud.com/shortcuts/42f764df90ca4830a45134133edc2fde)**
 > 
 > *This is the unified version. No additional dependency shortcuts are required.*
 
@@ -37,7 +37,7 @@ Instead of basic shortcut menus, this system uses a premium nested structure pro
 Once an option is selected, the workflow seamlessly bridges your prompt over to the dedicated AI engines based on your needs:
 * **Information Retrieval Unit (QA):** Analytical processing across 3 distinct knowledge bases.
 * **Conversational Unit:** Continuous dialogue and brainstorming across 3 alternate conversational models.
-* **Generative Image Engine:** Deep-linked text-to-image prompt engineering across 2 separate generation engines.
+* **Generative Image Engine:** Text-to-image prompt engineering across 2 separate generation engines.
 
 ### 4. Omnichannel Communication Gateway
 A custom output routing engine that allows you to instantly push your data or AI-generated content across multiple notification channels:
