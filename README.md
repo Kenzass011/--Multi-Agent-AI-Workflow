@@ -15,7 +15,7 @@ To fully utilize this workflow and all its specialized agents, you **must have t
 ## 📥 Download Shortcut (Pobierz skrót)
 
 > [!TIP]
-> **[Click here to install Multi-Agent AI Workflow (All-in-One Version)](https://www.icloud.com/shortcuts/fe8df3d6054b47cda13b3db910eab5c0)**
+> **[Click here to install Multi-Agent AI Workflow (All-in-One Version)](https://www.icloud.com/shortcuts/5cc1ef85a6994153bc21b2df519ab5e3)**
 > 
 > *This is the unified version. No additional dependency shortcuts are required.*
 
