@@ -2,7 +2,7 @@
 
 An advanced, production-ready automation hub designed for iOS that acts as a centralized command center for multiple Large Language Models (LLMs) and multi-channel communication. 
 
-This project solves the critical issue of background session expiration in native mobile AI applications by implementing a proprietary, high-performance background session-keeping architecture combined with custom security digital watermarking.
+This project solves the critical issue of background session expiration in native mobile AI applications by implementing a proprietary, high-performance background session-keeping architecture combined with custom security digital watermarking—all compiled into a single, self-contained shortcut.
 
 ## ⚠️ Prerequisites (Wymagania)
 
@@ -12,15 +12,12 @@ To fully utilize this workflow and all its specialized agents, you **must have t
 * **Gemini** (Google)
 * **Grok** (xAI)
 
-## 📥 Download Shortcuts (Pobierz moduły skrótu)
+## 📥 Download Shortcut (Pobierz skrót)
 
-> [!IMPORTANT]
-> This system is modular. For the workflow to function properly, you need to download and install all 4 shortcuts below:
->
-> 1. 🌐 **[Download: Siri (Main Core Hub)](https://www.icloud.com/shortcuts/0db571620dc54795980850950a67b889)** — The main dashboard, nested menu, routing, and omnichannel system.
-> 2. 🍊 **[Download: W tle (Claude Agent)](https://www.icloud.com/shortcuts/f8f4e65a14cb4bdf9a024da1edb90cff)** — Background session management module for Claude.
-> 3. 🧠 **[Download: W tle 2 (ChatGPT Agent)](https://www.icloud.com/shortcuts/90b259b203cd4285a7335534bd960e61)** — Background session management module for ChatGPT.
-> 4. 🚀 **[Download: W tle 3 (Grok Agent)](https://www.icloud.com/shortcuts/b84210fd11a64af58a6ddd92df3a6408)** — Background session management module for Grok.
+> [!TIP]
+> **[Click here to install Multi-Agent AI Workflow (All-in-One Version)](https://www.icloud.com/shortcuts/79d2255a0d3b4bf49ee6572d17a96379)**
+> 
+> *This is the unified version. No additional dependency shortcuts are required.*
 
 ## 🚀 Key Features & Architecture
 
@@ -29,7 +26,7 @@ The system is engineered using a modular approach, splitting execution into disc
 ### 1. Dual-Stage Routing & Security Gateway
 Instead of basic shortcut menus, this system uses a premium nested structure protected by ownership verification:
 * **Stage 1 (Launch Gate):** A dedicated launch trigger (`Multi-Agent AI Workflow`) that initializes the system.
-* **Security & Watermarking Layer:** Implements a native system notification layer (`by 🤴Kenzas$$`) serving as an immutable cryptographic-like digital watermark to prevent unauthorized code redistribution.
+* **Security & Watermarking Layer:** Implements a native system notification layer (`by 😝𝕶𝖊𝖓𝖟𝖆𝖘𝖘 `) serving as an immutable cryptographic-like digital watermark to prevent unauthorized code redistribution.
 * **Stage 2 (Operational Dashboard):** An elegant, minimalist UI that dynamically routes user intent to specialized modules.
 
 ### 2. High-Performance Session Keeper (The "Ping" Mechanism)
@@ -51,7 +48,7 @@ A custom output routing engine that allows you to instantly push your data or AI
 ## 🛠️ Tech Stack & Concepts
 
 * **Platform:** iOS Shortcuts Environment (Low-Code / Visual Programming)
-* **Architecture:** Micro-services style execution (Split-trigger workflow)
+* **Architecture:** Monolithic All-in-One workflow (Self-contained logic)
 * **Security:** Integrated UI/UX Digital Watermarking
 * **UX/UI Design:** Modular nested menus with high-contrast system typography
 * **Inter-Process Communication:** Deep-linking and system clipboard mapping
